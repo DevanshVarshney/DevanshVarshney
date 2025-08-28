@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=🙏Hello,%20I%20am%20Devansh%20Varshney&desc=Electronics%20Engineer%20|%20Innovator%20|%20IoT%20Enthusiast&descAlign=72&descAlignY=50&fontAlign=51&fontAlignY=30&fontColor=000000&fontSize=48">
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=🙏Hello,%20I%20am%20Devansh%20Varshney&fontAlign=51&fontAlignY=30&desc=Electronics%20Engineer%20|%20Innovator%20|%20IoT%20Enthusiast&descAlign=72&descAlignY=50&fontSize=48&reversal=false">
-  <img alt="Hello, I'm Devansh" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=🙏Hello,%20I%20am%20Devansh%20Varshney&fontAlign=51&fontAlignY=30&desc=Electronics%20Engineer%20|%20Innovator%20|%20IoT%20Enthusiast&descAlign=72&descAlignY=50&fontSize=48&reversal=false">
+  <img alt="Hello, I'm Devansh" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=🙏Namaste!%20I%20am%20Devansh%20Varshney&fontAlign=51&fontAlignY=30&desc=Electronics%20Engineer%20|%20Innovator%20|%20IoT%20Enthusiast&descAlign=72&descAlignY=50&fontSize=48&reversal=false">
 </picture>
 
 
